@@ -1,0 +1,14 @@
+.cardHeader{
+    cursor: pointer;
+    background-color: white;
+}
+.arrowdown{
+    width: 5%;
+    transition: transform ease-in 0.3s;
+    transform-style: preserve-3d;
+    user-select: none;
+}
+
+.arrowdown.expanded {
+    transform: rotateX(180deg);
+}

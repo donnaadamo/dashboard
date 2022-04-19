@@ -1,0 +1,19 @@
+.headerText{
+    color: blue;
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+
+@media (max-width: 576px) {
+    .headerText {
+        text-align: center;
+    }
+    .buttons {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .buttons :first-child {
+        margin-right: 5px;
+    }
+}

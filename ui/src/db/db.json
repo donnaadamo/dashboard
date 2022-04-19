@@ -1,0 +1,114 @@
+{
+  "teammates": [
+    {
+      "id": 0,
+      "name": "Andrew",
+      "last_name": "Fuller",
+      "rol": "Team Lead"
+    },
+    {
+      "id": 1,
+      "name": "Nancy",
+      "last_name": "Leverling",
+      "rol": "Sales Associate"
+    },
+    {
+      "id": 2,
+      "name": "Robert",
+      "last_name": "King",
+      "rol": "Business System Analyst"
+    },
+    {
+      "id": 3,
+      "name": "Laurence",
+      "last_name": "Lebihan",
+      "rol": "Accounting Manager"
+    },
+    {
+      "id": 4,
+      "name": "Mary",
+      "last_name": "Saveley",
+      "rol": "Sales Agent"
+    },
+    {
+      "id": 5,
+      "name": "Hari",
+      "last_name": "Kumar",
+      "rol": "Sales Agent"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Chai",
+      "price": 18,
+      "stock": 39,
+      "active": false
+    },
+    {
+      "id": 2,
+      "name": "Chang",
+      "price": 19,
+      "stock": 17,
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Aniseed Syrup",
+      "price": 10,
+      "stock": 13,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Chef Anton's Cajun Seasoning",
+      "price": 22,
+      "stock": 53,
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Chef Anton's Gumbo Mix",
+      "price": 21.35,
+      "stock": 0,
+      "active": true
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Chai",
+      "price": 18,
+      "stock": 39,
+      "active": false
+    },
+    {
+      "id": 2,
+      "name": "Chang",
+      "price": 19,
+      "stock": 17,
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Aniseed Syrup",
+      "price": 10,
+      "stock": 13,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Chef Anton's Cajun Seasoning",
+      "price": 22,
+      "stock": 53,
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Chef Anton's Gumbo Mix",
+      "price": 21.35,
+      "stock": 0,
+      "active": true
+    }
+  ]
+}
